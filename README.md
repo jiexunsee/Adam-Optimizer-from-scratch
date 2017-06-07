@@ -1,2 +1,2 @@
 # Adam optimizer with numpy
-Pretty self-explanatory
+ADAM.ipynb contains all the code, descriptions, and visualisation.
